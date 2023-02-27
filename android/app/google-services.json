@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904950982584",
+    "project_id": "courseapp-2b9c5",
+    "storage_bucket": "courseapp-2b9c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904950982584:android:6a0c915a0c7f865c48914d",
+        "android_client_info": {
+          "package_name": "com.rauf.courseApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904950982584-f5a6r9n57sr1q27nesuupa7inbbk19dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHnITH9XGCnYmvlYC9HLSXledALG6hMTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904950982584-f5a6r9n57sr1q27nesuupa7inbbk19dv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
